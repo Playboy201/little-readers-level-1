@@ -25,6 +25,6 @@ The website is static and does not require environment variables or a build comm
 - `assets/` — optimised visual assets
 - `vercel.json` — caching and security headers
 
-## Before launch
+## Brand
 
-Replace the visible placeholders for verified reviews, reach figures, refund policy, printing licence, contact email and legal pages with approved business information.
+Published by **PB Teaching**. The production page includes product terms, a personal-use printing licence, privacy information and a digital-product refund policy.
